@@ -1,0 +1,16 @@
+{
+  "name": "react-responsive-page",
+  "version": "1.0.0",
+  "description": "A set of utility functions and components to make responsive design easier in React applications",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["react", "responsive", "hooks", "breakpoints"],
+  "author": "SAGAR HALDAR",
+  "license": "MIT",
+  "dependencies": {
+    "prop-types": "^15.8.1",
+    "react": "^18.3.1"
+  }
+}
